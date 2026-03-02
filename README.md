@@ -21,6 +21,7 @@
 - **Model_Pretrained** is coming soon, providing high-performance weights and experimental foundations for community research.
 
 ## 🔥 News
+- **2026.03.02** - The [ComfyUI node](https://github.com/HM-RunningHub/ComfyUI_RH_FlashHead) is now available. Thanks for the comfyui support of [HM-RunningHub](https://github.com/HM-RunningHub).
 - **2026.02.12** - The [online demo](#online-experience-qr) is now available via the Soul App. Download it today to try it out. 
 - **2026.02.12** - We have released the [inference code](https://github.com/Soul-AILab/SoulX-FlashHead), and the [model weights](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B).
 - **2026.02.12** - We released **Project page** on [SoulX-FlashHead](https://soul-ailab.github.io/soulx-flashhead/).
